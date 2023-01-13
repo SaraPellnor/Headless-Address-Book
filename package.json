@@ -1,0 +1,23 @@
+{
+  "name": "headless-address-book",
+  "version": "1.0.0",
+  "description": "School Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraPellnor/Headless-Address-Book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraPellnor/Headless-Address-Book/issues"
+  },
+  "homepage": "https://github.com/SaraPellnor/Headless-Address-Book#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,13 @@
+GET http://localhost:3000/api/getAll
+
+###
+POST http://localhost:3000/api/postAddress
+Content-Type: application/json
+
+{
+    "name": "Bajskorv",
+    "address": "Kissvägen 2",
+    "zip code": "11111",
+    "phone num": " 0600666666",
+    "mail": "spolanu@plurr.comintein"
+}

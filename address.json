@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kalle Anka",
+    "address": "Plommonvägen 4",
+    "zip code": "12356",
+    "phone num": " 0742546467",
+    "mail": "kalleAnka@gmail.com"
+  },
+  {
+    "name": "Lena Ben",
+    "address": "Skomakargatan 5",
+    "zip code": "83714",
+    "phone num": "0736776668",
+    "mail": "benlena@lenaben.se"
+  },
+  {
+    "name": "Ann Ahl",
+    "address": "Trumvägen 176",
+    "zip code": "32132",
+    "phone num": "0705343777",
+    "mail": "allann87@yahoo.com"
+  },
+  {
+    "name": "Sara Pellnor",
+    "address": "Brearedsvägen 228",
+    "zip code": "43963",
+    "phone num": "0730442444",
+    "mail": "sara.pellnor@hotmail.com"
+  },
+  {
+    "name": "Linda Eskilsson",
+    "address": "Skönadahlsvägen 3",
+    "zip code": "17942",
+    "phone num": "0764562317",
+    "mail": "plopp.luver@plopp.nu"
+  },
+  {
+    "name": "Per Lundgren",
+    "address": "Lundsgatan 3",
+    "zip code": "44675",
+    "phone num": "0730555789",
+    "mail": "lungan82@gmail.com"
+  },
+  {
+    "name": "Bajskorv",
+    "address": "Kissvägen 2",
+    "zip code": "11111",
+    "phone num": " 0600666666",
+    "mail": "spolanu@plurr.comintein"
+  }
+]
